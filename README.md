@@ -9,5 +9,9 @@ This is a simple Java program that displays a pumpkin using the `java.awt` and `
 
 ## Credits
 This program was written by Adam Alemi.
+
+## Sample Output
+
 ![output](./punkin.png)
+![output2](./2p.png)
 
